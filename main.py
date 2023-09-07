@@ -39,7 +39,7 @@ def send_whatsapp_message(price):
         print(f'Error al enviar el mensaje de WhatsApp: {str(e)}')
 
 def main():
-    #instaniamos el precio anterior en None como primer try
+    #instaniamos el precio anterior en None como primer tryy
     previous_price = None
     
     #bucle infinito PA

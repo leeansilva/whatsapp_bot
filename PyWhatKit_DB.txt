@@ -1,0 +1,35 @@
+Date: 7/9/2023
+Time: 0:48
+Phone Number: +541156368077
+Message: Mensaje enviado desde python, el precio del USDT en ARS es de: $755.30000000
+--------------------
+Date: 7/9/2023
+Time: 0:52
+Phone Number: +541165235550
+Message: Mensaje enviado desde python, el precio del USDT en ARS es de: $755.50000000
+--------------------
+Date: 7/9/2023
+Time: 1:5
+Phone Number: +541135654619
+Message: Mensaje enviado desde python, el precio del USDT en ARS es de: $755.60000000
+--------------------
+Date: 7/9/2023
+Time: 1:34
+Phone Number: +541135654619
+Message: Precio de USDT en ARS: $755.20000000
+--------------------
+Date: 7/9/2023
+Time: 1:37
+Phone Number: +541135654619
+Message: Precio de USDT en ARS: $755.50000000
+--------------------
+Date: 7/9/2023
+Time: 1:40
+Phone Number: +541135654619
+Message: Precio de USDT en ARS: $755.10000000
+--------------------
+Date: 7/9/2023
+Time: 2:20
+Phone Number: +541135654619
+Message: Precio de USDT en ARS: $755.00000000
+--------------------
